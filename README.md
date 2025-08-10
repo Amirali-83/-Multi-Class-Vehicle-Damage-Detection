@@ -1,1 +1,1 @@
-# -Multi-Class-Vehicle-Damage-Detection
+# Multi-Class-Vehicle-Damage-Detection
